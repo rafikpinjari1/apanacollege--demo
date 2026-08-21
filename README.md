@@ -1,4 +1,4 @@
 # apanacollege--demo
 this time first git repositry
 <br>
-Author Rafik pinjari
+Author Rafik pinjari manjaram
